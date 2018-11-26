@@ -1,0 +1,24 @@
+.tableContainer {
+  margin-top: 60px;
+  padding: 60px;
+}
+
+table {
+}
+input {
+  padding: 6px;
+  border-width: 0px;
+}
+input:focus {
+  border-width: 0px;
+}
+input:focus {
+  outline: none !important;
+  border: 1px solid #777;
+  box-shadow: 0 0 10px #719ece;
+}
+input:hover {
+  outline: none !important;
+  border: 1px solid #777;
+  box-shadow: 0 0 10px #719ece;
+}
